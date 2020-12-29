@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{93:function(a){a.exports=JSON.parse('{"allTagsPath":"/instamate-doc/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/instamate-doc/blog/tags/hello"}')}}]);
