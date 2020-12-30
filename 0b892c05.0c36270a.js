@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{72:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/instamate-doc/blog/welcome"},{"title":"Hello","permalink":"/instamate-doc/blog/hello-world"},{"title":"Hola","permalink":"/instamate-doc/blog/hola"}]}')}}]);
